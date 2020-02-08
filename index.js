@@ -121,4 +121,4 @@ function play(guild, song) {
 	dispatcher.setVolumeLogarithmic(serverQueue.volume / 5);
 }
 
-client.login('Njc1MDAxOTY3ODUxOTk1MTM2.Xjwymw.SA8mC4csWAg0-AbC3BqpYRP7bN0');
+bot.login(procces.env.token);
